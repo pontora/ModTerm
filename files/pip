@@ -1,7 +1,7 @@
-setuptools
-wheel
-request
-pip-check
-lolcat
-pygments
-tldr
+pip install setuptools
+pip install wheel
+pip install request
+pip install pip-check
+pip install lolcat
+pip install pygments
+pip install tldr

@@ -1,7 +1,7 @@
-root-repo
-x11-repo
-termux-api
-termux-auth
-termux-exec
-termux-services
-termux-tools
+pkg install root-repo -y
+pkg install x11-repo -y
+pkg install termux-api -y
+pkg install termux-auth -y
+pkg install termux-exec -y
+pkg install termux-services -y
+pkg install termux-tools -y

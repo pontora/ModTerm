@@ -1,31 +1,31 @@
-curl
-wget
-bash-completion
-bc
-diffutils
-dnsutils
-file
-gh
-git
-golang
-htop
-inetutils
-jq
-linux-man-pages
-man
-micro
-nmap
-nodejs
-openssh
-openssl-tool
-php
-proot
-python
-python2
-rsync
-tar
-unzip
-w3m
-wcalc
-zip
-zsh
+pkg install curl -y
+pkg install wget -y
+pkg install bash-completion -y
+pkg install bc -y
+pkg install diffutils -y
+pkg install dnsutils -y
+pkg install file -y
+pkg install gh -y
+pkg install git -y
+pkg install golang -y
+pkg install htop -y
+pkg install inetutils -y
+pkg install jq -y
+pkg install linux-man-pages -y
+pkg install man -y
+pkg install micro -y
+pkg install nmap -y
+pkg install nodejs -y
+pkg install openssh -y
+pkg install openssl-tool -y
+pkg install php -y
+pkg install proot -y
+pkg install python -y
+pkg install python2 -y
+pkg install rsync -y
+pkg install tar -y
+pkg install unzip -y
+pkg install w3m -y
+pkg install wcalc -y
+pkg install zip -y
+pkg install zsh -y
